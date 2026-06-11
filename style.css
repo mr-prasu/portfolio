@@ -205,6 +205,7 @@ section h2::after {
 
 .project-card:hover {
     background-color: #252525;
+   margin-top: 0.8rem;
 }
 
 .project-card h3 {
