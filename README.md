@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a responsive personal portfolio website for **Prasnna Kumar**, an aspiring Data Scientist and Applied AI learner. It introduces the profile, technical skills, learning journey, focus areas, featured projects, and contact links in a clean one-page layout.
+This project is a responsive personal portfolio website for **Prasanna Kumar**, an aspiring Data Scientist and Applied AI learner. It introduces the profile, technical skills, learning journey, focus areas, featured projects, and contact links in a clean one-page layout.
 
 The site highlights interests in Python, data analysis, machine learning, generative AI, agentic AI, natural language processing, and AI automation. It also links to featured work, including a Python Programming Quiz and the NeuroScan AI post-COVID brain alteration detection project.
 
